@@ -1,0 +1,14 @@
+[
+    {
+        "nomborRujukan": 101,
+        "tajuk": "ABC",
+        "kategori": "Novel",
+        "status": "Ongoing"
+    },
+    {
+        "nomborRujukan": 201,
+        "tajuk": "DEF",
+        "kategori": "Sci-fi",
+        "status": "Testing"
+    }
+]

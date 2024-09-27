@@ -1,0 +1,14 @@
+[
+    {
+        "latihan": "L1",
+        "pelulus": "Lulis",
+        "status": true,
+        "komen": "Hello"
+    },
+    {
+        "latihan": "L2",
+        "pelulus": "Gagal",
+        "status": false,
+        "komen": "Not Hello"
+    }
+]

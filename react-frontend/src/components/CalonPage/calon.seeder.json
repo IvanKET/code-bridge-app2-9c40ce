@@ -1,0 +1,12 @@
+[
+    {
+        "pengguna": "Ali",
+        "latihan": "L1",
+        "status": "Complete"
+    },
+    {
+        "pengguna": "Siti",
+        "latihan": "L2",
+        "status": "Suspended"
+    }
+]
